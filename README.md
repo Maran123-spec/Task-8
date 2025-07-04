@@ -22,18 +22,12 @@ Step 7: Researching VPN Privacy:
 I learned that VPNs use encryption to hide your internet traffic, protect you on public Wi-Fi, and help bypass censorship or geo-blocks. However, free VPNs may have server or speed limitations.
 
 Benefits:
-
-Hides your real IP address
-
-Encrypts your traffic
-
-Protects your privacy online
+1)Hides your real IP address
+2)Encrypts your traffic
+3)Protects your privacy online
 
 Limitations:
-
-Can slow down your internet speed
-
-Fewer server options on free plans
-
-You must trust the VPN provider not to log or misuse your data
+1)Can slow down your internet speed
+2)Fewer server options on free plans
+3)You must trust the VPN provider not to log or misuse your data
 
